@@ -7,13 +7,14 @@ Healthcare, and Government Portals; JMD ANALYTICS  is a top developer in MUMBAI 
 
 ***********************
 Case Study:
-Project 1 - Koli Fusion - Fine Dinning Restaurant - Food Ordering Web base Application with Mobile Responsive.
-Project 2 - Suved - Cold Storage - Client side Ordering Web base Application with Mobile Responsive.
-Project 3 - A V Cold Storage - Cold Storage & General Store - E-commerce Web base Application with Mobile Responsive + OFFLINE System for Billing + Stock Inventory.
-Project 4 - Annu Medical - 3 Branches in Mumbai - E-commerce Web base Application with Mobile Responsive [ Working on It ] 
-Project 6 - A K Fresh Food - Sale Web base Application wih Mobile Responsive -  E-commerce Web base Application with Mobile Responsive + OFFLINE System for Billing + Stock Inventory + Dashboard 
-Project 7 - Ganimikawa Share - Web base Application with Mobile Responsive - Blog Post with Rating & Comment 
-Project 8 - Chavan Brothers - Web base Application with Mobile Responsive - Billing Software 
+
+- Project 1 - Koli Fusion - Fine Dinning Restaurant - Food Ordering Web base Application with Mobile Responsive.
+- Project 2 - Suved - Cold Storage - Client side Ordering Web base Application with Mobile Responsive.
+- Project 3 - A V Cold Storage - Cold Storage & General Store - E-commerce Web base Application with Mobile Responsive + OFFLINE System for Billing + Stock Inventory.
+- Project 4 - Annu Medical - 3 Branches in Mumbai - E-commerce Web base Application with Mobile Responsive [ Working on It ] 
+- Project 6 - A K Fresh Food - Sale Web base Application wih Mobile Responsive -  E-commerce Web base Application with Mobile Responsive + OFFLINE System for Billing + Stock Inventory + Dashboard 
+- Project 7 - Ganimikawa Share - Web base Application with Mobile Responsive - Blog Post with Rating & Comment 
+- Project 8 - Chavan Brothers - Web base Application with Mobile Responsive - Billing Software 
 ***********************
 Client Personalised Software
 
